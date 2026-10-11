@@ -1,0 +1,6 @@
+# Website outcomes
+
+- [x] **Cinematic landing experience** — Create a premium Mahindra car website with a full-screen particle animation in which unconstrained Mahindra-inspired particles gather and assemble into a vehicle. Include animated transitions and smooth scrolling, and make the experience responsive with accessible reduced-motion behavior.
+- [x] **Complete Mahindra vehicle lineup** — Include Mahindra’s car lineup in a searchable, easy-to-browse premium catalogue. Visitors can filter by vehicle type, seating capacity, fuel type, transmission, and price range.
+- [x] **Detailed model pages and comparison** — Provide a dedicated detail view for every car with an overview, highlights, variants, and available colors. Cover capacity/seating, mileage or claimed EV range, engine/motor, power, torque, dimensions, transmission, fuel type, and safety details. Add exterior/interior media, animated transitions, close-up feature storytelling, and a vehicle comparison experience that reviews selected models side by side.
+- [x] **Responsive navigation and useful enquiries** — Provide responsive mobile-first navigation and clear actions for brochure downloads, test-drive interest, dealer discovery, and official purchase enquiries.
